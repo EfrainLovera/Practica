@@ -1,1 +1,1 @@
-Saludos="Hola mundo"
+print("Hola mundo")
